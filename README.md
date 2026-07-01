@@ -3,3 +3,9 @@
 Small Turtle serializer for kotoba RDF EDN terms.
 
 This accepts the term and triple maps used by `kotoba-lang/rdf`.
+
+## Test
+
+```bash
+clojure -M:test
+```
